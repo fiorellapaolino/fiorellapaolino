@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Fiorella Paolino
+> Full Stack Developer 👨‍💻
 
-<!--
-**fiorellapaolino/fiorellapaolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'fiorellapaolino';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Fiorella Paolino';
+  title    = 'Full Stack Dev';
+  location = 'Madrid, España';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages    = ['JavaScript', 'TypeScript', 'Python'];
+  technologies = ['HTML', 'CSS', 'SASS', 'Bootstrap'];
+  databases    = ['MySQL', 'MongoDB'];
+  frameworks   = ['React', 'Angular', 'Flask'];
+}
