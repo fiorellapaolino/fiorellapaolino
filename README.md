@@ -1,18 +1,15 @@
-### Hi there 👋 I'm Fiorella Paolino
-> Full Stack Developer 👨‍💻
+<h4 align="start">Hello! I'm a Web & Mobile App Developer 👩‍💻</h4>
 
-```js
-import SoftwareDeveloper from 'fiorellapaolino';
+## 🛠️ Main Tech Stack
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
+- [Python](https://python.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Fiorella Paolino';
-  title    = 'Full Stack Dev';
-  location = 'Madrid, España';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages    = ['JavaScript', 'TypeScript', 'Python'];
-  technologies = ['HTML', 'CSS', 'SASS', 'Bootstrap'];
-  databases    = ['MySQL', 'Firebase'];
-  frameworks   = ['React', 'Angular', 'Flask'];
-}
+## 🚀 Reach me out
+#### Fiorella Paolino
+- LinkedIn: [@fiorellapaolino](https://www.linkedin.com/in/fiorellapaolino/)
+- GitHub: [@fiorellapaolino](https://github.com/fiorellapaolino)
